@@ -1,2 +1,3 @@
 #jquery.cookie.js 源码分析 V1.4.1
 1:首先要了解 js中(function(){…})()立即执行函数写法理解
+ <a href="http://dengo.org/archives/1004">学习地址</a>
